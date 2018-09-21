@@ -1,11 +1,16 @@
 _repo: History-of-the-Inquisition-from-Its-Establishment-Till-the-Present-Time_54115
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54115-h/images/cover.jpg
 creator:
   author:
     agent_name: Sime, William
     gutenberg_agent_id: '47709'
     url: http://www.gutenberg.org/2009/agents/47709
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54115#History-of-the-Inquisition-from-Its-Establishment-Till-the-Present-Time
 gutenberg_issued: '2017-02-06'
 gutenberg_type: Text
 identifiers:
